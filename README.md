@@ -28,5 +28,24 @@ and the graphics
 
 ![6](6.png)
 
+<u>***Project 2:***</u>
 
+Statistics of Number of people in household (reside) and the Primary vehicle price category (carcat). Evaluating a cross table with histogram:
 
+![7](7.png)
+
+As we see, the correlation is straight forward. Standard and luxury cars dominate in households with few people. It is a social impact that children-rich households belong to the poorer part of the society.
+
+This is shown in the comparison ‘Number of people in household’ and the ‘Household income in thousands'
+
+![9](9.png)
+
+This graph shows the correlation of income related to household size of this sample.
+
+![8](8.png)
+
+The correlation results in 
+
+![10](10.png)
+
+This means the average of a two person household is a standard car priced with 30k$ and an average annual income of 70k$.
